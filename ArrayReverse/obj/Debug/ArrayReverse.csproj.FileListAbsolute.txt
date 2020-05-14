@@ -1,0 +1,14 @@
+C:\Users\Studerande\source\repos\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+C:\Users\Studerande\source\repos\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.exe
+C:\Users\Studerande\source\repos\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.pdb
+C:\Users\Studerande\source\repos\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.exe
+C:\Users\Studerande\source\repos\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.pdb
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.exe.config
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.exe
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\ArrayReverse\ArrayReverse\bin\Debug\ArrayReverse.pdb
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csprojAssemblyReference.cache
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.exe
+C:\Users\Studerande\Desktop\Lexicon\Study information and Problem\ArrayReverse\ArrayReverse\obj\Debug\ArrayReverse.pdb
